@@ -4,12 +4,12 @@ My name is Brayden Royston and I'm a 3rd year student completing the Computer Sc
 
 ### Currently...
 - SWE Intern at [Gadze Finance](https://gadze.finance)
-- Frontend Software Developer at [The GoldenHack](https://www.thegoldenhack.ca/), a hackathon at the intersection of business & tech 💛💜
 - Academic delegate in Digital Strategy at [JDCC Laurier](https://www.instagram.com/jdcclaurier/) 📈
 - Freelance web development 💻
 
 ### Previously...
 - Full-Stack Software Developer at [TD Lab](https://tdlab.io) 🚀
 - DevOps Consultant at [Innovapost](https://innovapost.com) ✉️
+- Frontend Software Developer at [The GoldenHack](https://www.thegoldenhack.ca/), a hackathon at the intersection of business & tech 💛💜
 
 You can reach me at broyston@uwaterloo.ca if you want to chat ☕! Have a good one :D
