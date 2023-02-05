@@ -1,4 +1,4 @@
-### What's up! 👋
+### Hi there! 👋
 
 My name is Brayden Royston and I'm a 4th year student completing the Computer Science and Business Administration Double Degree program at the University of Waterloo and Wilfrid Laurier University. My interests lie in software engineering, business and finance, sports, and fitness. Read more about my professional life below and if you're interested in chatting please reach out! You can also check out my personal website [here](https://www.braydenroyston.ca) (https://www.braydenroyston.ca)!
 
