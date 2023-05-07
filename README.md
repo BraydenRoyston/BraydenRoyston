@@ -4,10 +4,11 @@ My name is Brayden Royston and I'm a 4th year student completing the Computer Sc
 
 ### Currently...
 - SWE Intern at [NimbleRx](https://www.nimblerx.com) 💊
-- Team Lead & Blockchain Developer at the [University of Waterloo Blockchain Club](https://www.uwblockchain.ca)
+- Team Lead & Software Developer at [UW Blueprint](https://uwblueprint.org/) 💻
 - International Delegate & Coach on the [Laurier Case Team](https://www.lauriercaseteam.ca) 🖥️💼
 
 ### Previously...
+- Team Lead & Blockchain Developer at the University of Waterloo Blockchain Club
 - SWE Intern at [Gadze Finance](https://gadze.finance) 📈
 - SWE Intern at [TD Lab](https://tdlab.io) 🚀
 - DevOps Engineer Itern at [Innovapost](https://innovapost.com) ✉️
