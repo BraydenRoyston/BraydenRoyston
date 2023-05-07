@@ -11,7 +11,7 @@ My name is Brayden Royston and I'm a 4th year student completing the Computer Sc
 - Team Lead & Blockchain Developer at the University of Waterloo Blockchain Club
 - SWE Intern at [Gadze Finance](https://gadze.finance) 📈
 - SWE Intern at [TD Lab](https://tdlab.io) 🚀
-- DevOps Engineer Itern at [Innovapost](https://innovapost.com) ✉️
+- DevOps Engineer Intern at [Innovapost](https://innovapost.com) ✉️
 - Software Developer at [The GoldenHack](https://www.thegoldenhack.ca/), a hackathon at the intersection of business & tech 💛💜
 
 You can reach me at braydengroyston@gmail.com if you want to chat ☕! Have a good one :D
