@@ -1,13 +1,14 @@
 ### Hi there! 👋
 
-My name is Brayden Royston and I'm a 4th year student completing the Computer Science and Business Administration Double Degree program at the University of Waterloo and Wilfrid Laurier University. My interests lie in software engineering, business and finance, sports, and fitness. Read more about my professional life below and if you're interested in chatting please reach out! You can also check out my personal website [here](https://www.braydenroyston.ca) (https://www.braydenroyston.ca)!
+My name is Brayden Royston and I'm a Senior CS + Business Dual Degree student at the University of Waterloo. My interests lie in software engineering, business and finance, and doing my best to make the world a better place. Read more about my professional life below and if you're interested in chatting, reach out any time. You can also check out my personal website [here](https://www.braydenroyston.ca) (https://www.braydenroyston.ca)!
 
 ### Currently...
-- SWE Intern at [NimbleRx](https://www.nimblerx.com) 💊
-- Team Lead & Software Developer at [UW Blueprint](https://uwblueprint.org/) 💻
+- SWE Intern at [Tesla](https://tesla.com)
+- Vice President of Engineering at [UW Blueprint](https://uwblueprint.org/) 💻
 - International Delegate & Coach on the [Laurier Case Team](https://www.lauriercaseteam.ca) 🖥️💼
 
 ### Previously...
+- SWE Intern at [NimbleRx](https://www.nimblerx.com) 💊
 - Team Lead & Blockchain Developer at the University of Waterloo Blockchain Club
 - SWE Intern at [Gadze Finance](https://gadze.finance) 📈
 - SWE Intern at [TD Lab](https://tdlab.io) 🚀
