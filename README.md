@@ -1,8 +1,7 @@
 ### Hi there! 👋
 
+Currently busy committing to private repos :(
 Best place to reach me for a chat is braydengroyston@gmail.com - always happy to connect.
-
-My name is Brayden and I'm a software engineer. I went to school at the University of Waterloo and Wilfrid Laurier University, completing a Bachelor of Computer Science and Bachelor of Business Administration respectively in parallel. My interests lie in software engineering, product design, business and finance, as well as doing my best to make the world a better place. Read more about my professional life below and if you're interested in chatting, reach out any time.
 
 ### Currently...
 - Engineering @ Apple 🍎
