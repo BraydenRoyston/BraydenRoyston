@@ -5,9 +5,10 @@ Currently busy committing to private repos :(
 Best place to reach me for a chat is braydengroyston@gmail.com - always happy to connect.
 
 ### Currently...
-- Engineering @ Apple 🍎
+- Engineering @ Stealth Startup
 
 ### Previously...
+- Engineering @ [Apple](https://apple.com) 🍎
 - SWE Intern at [Tesla](https://tesla.com) ⚡️
 - Vice President of Engineering at [UW Blueprint](https://uwblueprint.org/) 💻💙
 - International Delegate & Coach on the [Laurier Case Team](https://www.lauriercaseteam.ca) 🖥️💼
